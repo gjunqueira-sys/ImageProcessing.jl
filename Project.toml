@@ -1,0 +1,13 @@
+name = "ImageProcessing"
+uuid = "43a6f76d-46f5-4d5c-9347-a6c51e6f5ba3"
+authors = ["Gil Junqueira"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.7.2"
+
+[targets]
+test = ["Test"]
